@@ -85,7 +85,7 @@ cd RPI5-AI-Door-Lock
 3. **Control Logic**:  
    - The Raspberry Pi 5 sets the GPIO pin **HIGH** or **LOW** to energize the relay coil, thus unlocking the door by powering the electric strike.
 
-*(Refer to the [Fritzing Diagram](images/fritzing.jpg) in the `images` folder for more details.)*
+*(Refer to the [Fritzing Diagram](images/RPI-doorlock_bb.png) in the `images` folder for more details.)*
 
 ---
 
@@ -147,7 +147,7 @@ cd RPI5-AI-Door-Lock
 
 The `images` folder contains the Fritzing diagrams showing how to wire the **Raspberry Pi 5**, **5V relay**, and **electric strike**. Below is an example:
 
-![Fritzing Diagram](images/fritzing.jpg)
+![Fritzing Diagram](images/RPI-doorlock_bb.png)
 
 ---
 
