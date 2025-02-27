@@ -1,0 +1,25 @@
+{
+  "name": "rpi5-server",
+  "version": "1.0.0",
+  "description": "\"# RPI5-web-server\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "g": "^2.0.1",
+    "moment-timezone": "^0.5.46",
+    "mongoose": "^8.8.3",
+    "npm": "^10.9.1",
+    "quokka-treasure-chest": "^1.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
