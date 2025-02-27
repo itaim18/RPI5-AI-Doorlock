@@ -119,4 +119,3 @@ It also containe images such as below, that show the real life implication of ou
 - **[YOLOv8 Documentation](https://roboflow.com/)**
 - **[Roboflow](https://roboflow.com/)**
 
-"# RPI5-AI-Doorlock" 
