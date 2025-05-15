@@ -4,7 +4,11 @@ A secure, AI-powered door lock system built around **Raspberry Pi 5**, advanced 
 
 
 
-https://github.com/user-attachments/assets/0b25ef33-5361-46c5-bb0f-c2e928450c9b
+
+
+https://github.com/user-attachments/assets/7e7a05ca-6547-470a-9da9-36588a0159b5
+
+
 
 
 ---
