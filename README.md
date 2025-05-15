@@ -2,6 +2,11 @@
 
 A secure, AI-powered door lock system built around **Raspberry Pi 5**, advanced **face recognition**, and **object classification** with **YOLOv8**. The system grants access based on facial recognition and integrates a delivery classification model for identifying and training on delivery personnel. It leverages a **Node.js** server, a **React** front-end, and **MongoDB** for data storage.
 
+
+
+https://github.com/user-attachments/assets/0b25ef33-5361-46c5-bb0f-c2e928450c9b
+
+
 ---
 
 ## Project Structure 📂
